@@ -1,0 +1,14 @@
+﻿"oop 2.exe" (Win32). Загружено "C:\Users\ASUS\source\repos\oop 2\Debug\oop 2.exe". Символы загружены.
+"oop 2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"oop 2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"oop 2.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"oop 2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"oop 2.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"oop 2.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x2e4 завершился с кодом 0 (0x0).
+"oop 2.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"oop 2.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"oop 2.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x2b6c завершился с кодом 0 (0x0).
+Поток 0x31f0 завершился с кодом 0 (0x0).
+Программа "[10268] oop 2.exe" завершилась с кодом 0 (0x0).
